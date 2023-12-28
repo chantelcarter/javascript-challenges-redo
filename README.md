@@ -8,3 +8,5 @@ i'm going through the challenges again, just to see where i can improve, or wher
     - i would like to come back to this as well.
 
 - in the functions challenge the last question seemed like it would be really long, or that i may possibly have to use an object. so i will get back to this as well.
+
+- functions, loops, and arrays challenge is currently finished, but i want to complete the stretch goals.
