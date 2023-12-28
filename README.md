@@ -10,3 +10,5 @@ i'm going through the challenges again, just to see where i can improve, or wher
 - in the functions challenge the last question seemed like it would be really long, or that i may possibly have to use an object. so i will get back to this as well.
 
 - functions, loops, and arrays challenge is currently finished, but i want to complete the stretch goals.
+
+- higher order functions in complete. will go back for stretch goals.
