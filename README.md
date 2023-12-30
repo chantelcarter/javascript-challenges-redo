@@ -12,3 +12,8 @@ i'm going through the challenges again, just to see where i can improve, or wher
 - functions, loops, and arrays challenge is currently finished, but i want to complete the stretch goals.
 
 - higher order functions in complete. will go back for stretch goals.
+
+#### where i got lost
+- i just realized while doing the objects challenge that i got really lost when we had to do something like this:
+<!-- const bananaArray = object.map((value, index) => value.whatever === "something") -->
+    - when doing some of the projects, i was thinking to myself like where the heck is this coming from, when did we learn this code syntax. but now i understand, and i'm glad i went back to old challenges.
