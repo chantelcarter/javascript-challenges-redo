@@ -13,6 +13,8 @@ i'm going through the challenges again, just to see where i can improve, or wher
 
 - higher order functions in complete. will go back for stretch goals.
 
+- objects challenge complete. will go back for last 2 stretch goals.
+
 #### where i got lost
 - i just realized while doing the objects challenge that i got really lost when we had to do something like this:
 <!-- const bananaArray = object.map((value, index) => value.whatever === "something") -->
